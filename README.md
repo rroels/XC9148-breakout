@@ -31,6 +31,9 @@ This is a breakout board for the Torex XC9148 voltage convertor.
   * 1.2MHz oscillation frequency
   * no bypass mode
 
+> [!WARNING]
+> The 3.0MHz variations of the XC9148 will not work on this board!  
+
 ## Schematics 
 
 <img src="images/schematics.png" width="600">
