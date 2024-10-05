@@ -20,6 +20,8 @@ This is a breakout board for the Torex XC9148 voltage convertor.
 
 ## Change Log
 
+* v1.1
+  * Increased pad sizes of XC9148 for easier soldering by hand
 * v1.0
   * Initial design 
 
@@ -42,7 +44,7 @@ This is a breakout board for the Torex XC9148 voltage convertor.
 
 <img src="images/pcb.png" width="600">
 
-The Gerber file is in this repository (`kicad/gerbers/XC9148-breakout.zip`). Simply upload this file a PCB manufacturer of your choice (JLPCB, PCBWay, ...), and you they will make it for you for as low as \$5 for 5 pieces (with the cheapest shipping option, which can take a few weeks).
+The Gerber file is in this repository (`gerbers/XC9148-breakout.zip`). Simply upload this file a PCB manufacturer of your choice (JLPCB, PCBWay, ...), and you they will make it for you for as low as \$5 for 5 pieces (with the cheapest shipping option, which can take a few weeks).
 
 For JLCPCB, select the order number option where they will replace "JLCJLCJLCJLC" on the board with the actual order number.
 

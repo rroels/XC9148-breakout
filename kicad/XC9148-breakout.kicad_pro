@@ -53,6 +53,7 @@
       },
       "diff_pair_dimensions": [],
       "drc_exclusions": [
+        "lib_footprint_mismatch|101710000|61295000|fe80def6-8123-4d33-bea4-6d62c519399f|00000000-0000-0000-0000-000000000000",
         "lib_footprint_mismatch|117410000|56005000|5fb00604-707f-4371-8374-c88e09ead2bf|00000000-0000-0000-0000-000000000000",
         "lib_footprint_mismatch|117410000|64105000|d7575a23-38f8-452b-af66-e09a5dba725a|00000000-0000-0000-0000-000000000000"
       ],
@@ -469,7 +470,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "gerbers/",
+      "plot": "../gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
